@@ -2,7 +2,7 @@
     "name": "sassdoc-theme-vulcan",
     "description": "SassDoc theme for Vulcan packages",
     "title": "SassDoc Theme Vulcan",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "author": "Marc Mintel",
     "homepage": "https://github.com/vulcan-framework/sassdoc-theme",
     "keywords": [
